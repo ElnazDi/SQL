@@ -1,1 +1,3 @@
-# SQL_1
+## MySQL
+
+University Assignements
